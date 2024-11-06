@@ -1,6 +1,6 @@
 import React from 'react'
 
-import aboutImg from '../images/about.png';
+import about from '../images/about.png';
 
 function About() {
   return (
@@ -12,7 +12,7 @@ function About() {
     </div>
     <div className='section-center about-center'>
         <div className='about-img'>
-            <img  src={aboutImg} className='about-photo' alt='awesome landscape' />
+            <img  src={about} className='about-photo' alt='awesome landscape' />
         </div>
         <article className='about-info'>
             <h3>explore the difference</h3>
