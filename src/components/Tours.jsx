@@ -1,4 +1,5 @@
 import React from 'react'
+import { tours } from '../data'
 
 function Tours() {
   return (
